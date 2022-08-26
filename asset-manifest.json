@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.307b5b35.css",
+<<<<<<< HEAD
     "main.js": "./static/js/main.dbb1ee39.js",
     "index.html": "./index.html",
     "main.307b5b35.css.map": "./static/css/main.307b5b35.css.map",
@@ -9,5 +10,15 @@
   "entrypoints": [
     "static/css/main.307b5b35.css",
     "static/js/main.dbb1ee39.js"
+=======
+    "main.js": "./static/js/main.21779d90.js",
+    "index.html": "./index.html",
+    "main.307b5b35.css.map": "./static/css/main.307b5b35.css.map",
+    "main.21779d90.js.map": "./static/js/main.21779d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307b5b35.css",
+    "static/js/main.21779d90.js"
+>>>>>>> c6eaf29 (third commit)
   ]
 }
